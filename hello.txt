@@ -1,3 +1,4 @@
-Hello
+Hello from main
+Hello from conflict-demo
 New line
 First time editing on github
